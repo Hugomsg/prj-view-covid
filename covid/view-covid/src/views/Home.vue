@@ -3,7 +3,7 @@
     <v-container class="my-1">
       <v-row>
         <v-col>
-          <div class="display-1"><b>Dashboard</b> Coronavírus</div>
+          <div class="display-1"><b>Dashboard</b> Coronavírus teste</div>
           <div class="grey--text">Atualizado em: hh:mm dd/mm/yyyy</div>
         </v-col>
       </v-row>
